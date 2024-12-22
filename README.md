@@ -1,2 +1,1 @@
-# Financial-Market-Data-Analysis
-Financial market data analysis involves examining historical and real-time data from financial markets to identify trends, patterns, and insights that can inform investment decisions.
+To build an automated pipeline that extracts historical stock price data from the Alpha Vantage API, transforms the data by calculating technical indicators, and loads it into an AWS data lake for further analysis and visualization.
